@@ -1,0 +1,1026 @@
+[
+  {
+    "x": 525.0,
+    "y": 280.0,
+    "obj_type": "car_red_vertical",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 385.0,
+    "y": 175.0,
+    "obj_type": "car_blue_right",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 350.0,
+    "obj_type": "car_blue_vertical",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 175.0,
+    "obj_type": "car_red_right",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 455.0,
+    "y": 210.0,
+    "obj_type": "car_red_left",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 315.0,
+    "obj_type": "car_blue_vertical",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 245.0,
+    "obj_type": "car_red_vertical",
+    "props": {
+      "Direction": "vertical"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 455.0,
+    "obj_type": "пешеход",
+    "props": {}
+  },
+  {
+    "x": 490.0,
+    "y": 490.0,
+    "obj_type": "пешеход",
+    "props": {}
+  },
+  {
+    "x": 595.0,
+    "y": 420.0,
+    "obj_type": "светофор",
+    "props": {
+      "State": "red"
+    }
+  },
+  {
+    "x": 490.0,
+    "y": 245.0,
+    "obj_type": "светофор",
+    "props": {
+      "State": "red"
+    }
+  },
+  {
+    "x": 595.0,
+    "y": 245.0,
+    "obj_type": "движение запрещено",
+    "props": {
+      "Type": "Stop"
+    }
+  },
+  {
+    "x": 630.0,
+    "y": 490.0,
+    "obj_type": "движение запрещено",
+    "props": {
+      "Type": "Stop"
+    }
+  },
+  {
+    "x": 595.0,
+    "y": 70.0,
+    "obj_type": "светофор",
+    "props": {
+      "State": "red"
+    }
+  },
+  {
+    "x": 385.0,
+    "y": 385.0,
+    "obj_type": "светофор",
+    "props": {
+      "State": "red"
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 455.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 455.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 490.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 490.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 385.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 420.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 385.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 420.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 105.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 70.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 70.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 105.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 490.0,
+    "obj_type": "пешеходный переход",
+    "props": {
+      "Direction": "horizontal"
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 525.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 700.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 595.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 665.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 630.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 665.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 700.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 595.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 630.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 525.0,
+    "y": 525.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 525.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 525.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 525.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 420.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 525.0,
+    "y": 420.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 315.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 245.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 385.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 280.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 350.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 245.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 350.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 385.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 315.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 280.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 490.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 455.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 385.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 420.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 385.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 455.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 420.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 490.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 175.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 210.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 560.0,
+    "y": 175.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 525.0,
+    "y": 210.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 595.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 665.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 665.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 700.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 595.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 630.0,
+    "y": 175.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 270
+    }
+  },
+  {
+    "x": 630.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 700.0,
+    "y": 210.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 90
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 105.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 35.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 0.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 70.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 140.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 70.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 140.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 525.0,
+    "y": 35.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 0.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 560.0,
+    "y": 105.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 455.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 455.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 455.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 455.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 490.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 490.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 490.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 490.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 595.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 630.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 595.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 630.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 595.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 630.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 595.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 490.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 455.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 315.0,
+    "y": 315.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 245.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 350.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 280.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 280.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 350.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 245.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 315.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 210.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 350.0,
+    "y": 175.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 315.0,
+    "y": 175.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 350.0,
+    "y": 210.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 350.0,
+    "y": 455.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 420.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 490.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 350.0,
+    "y": 385.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 0
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 420.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 385.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 455.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 315.0,
+    "y": 490.0,
+    "obj_type": "Rvertical",
+    "props": {
+      "Rotation": 180
+    }
+  },
+  {
+    "x": 700.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 525.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 525.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 560.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 630.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 595.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 630.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 595.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 630.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 700.0,
+    "y": 630.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  },
+  {
+    "x": 665.0,
+    "y": 630.0,
+    "obj_type": "Rcrossroads",
+    "props": {}
+  }
+]
